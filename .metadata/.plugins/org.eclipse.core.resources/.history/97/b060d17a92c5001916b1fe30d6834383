@@ -1,0 +1,10 @@
+package com.bl.main.controller;
+
+public class SpringRestClient {
+	private static final String GET_EMPLOYEES_ENDPOINT_URL = "http://localhost:8080/home/employees";
+    private static final String GET_EMPLOYEE_ENDPOINT_URL = "http://localhost:8080/home/employees/{id}";
+    private static final String CREATE_EMPLOYEE_ENDPOINT_URL = "http://localhost:8080/home/employees";
+    private static final String UPDATE_EMPLOYEE_ENDPOINT_URL = "http://localhost:8080/home/employees/{id}";
+    private static final String DELETE_EMPLOYEE_ENDPOINT_URL = "http://localhost:8080/home/employees/{id}";
+
+}

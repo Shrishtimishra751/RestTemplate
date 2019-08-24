@@ -1,0 +1,5 @@
+package com.bl.main.controller;
+
+public class SpringRestClient {
+
+}

@@ -1,0 +1,5 @@
+package com.bl.main.repository;
+
+public interface ProductRepository {
+
+}

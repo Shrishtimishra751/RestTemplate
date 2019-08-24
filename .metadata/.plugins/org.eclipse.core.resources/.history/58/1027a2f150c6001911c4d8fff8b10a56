@@ -1,0 +1,5 @@
+package com.bl.main.model;
+
+public class Product {
+
+}
